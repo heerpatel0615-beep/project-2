@@ -1,4 +1,4 @@
-# Pattern & Number Analyzer
+# Logic Box
 
 This Python project is designed to demonstrate the use of basic programming concepts in a simple way.
 
