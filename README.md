@@ -34,6 +34,4 @@ The main objective of this project is to improve understanding of loops, conditi
 2. Run the program
 3. Select an option from the menu
 
-Incase if python file is not working, take a look at text files where all 3 outputs are presented
-5. Follow the instructions displayed on the screen
-
+Incase if python file is not working, take a look at text files where all 3 outputs are represented
